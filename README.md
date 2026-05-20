@@ -16,9 +16,3 @@
 *   **Frontend:** Vue.js, React
 *   **Backend:** Next.js, Node.js, Express
 *   **Databases:** PostgreSQL, MySQL, Firebase
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ghezz9&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
