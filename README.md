@@ -1,39 +1,24 @@
-# Ciao, sono Davide! 👋
 
 ### 🚀 Tech Stack
 
-<!-- Sezione Skill -->
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
 </p>
 
-### 🛠 Competenze
+### 🛠 Skills
 
-*   **Frontend:** [Es: React, Next.js, TailwindCSS, TypeScript]
-*   **Backend:** [Es: Node.js, Express, Python, Django]
-*   **Database & Cloud:** [Es: PostgreSQL, MongoDB, AWS, Firebase]
-*   **Strumenti:** [Es: Git, Docker, Figma, Vercel]
-
----
+*   **Languages:** JavaScript, TypeScript, Java, C++, Python
+*   **Frontend:** Vue.js, React
+*   **Backend:** Next.js, Node.js, Express
+*   **Databases:** PostgreSQL, MySQL, Firebase
 
 ### 📊 GitHub Stats
 
-<!-- Inserisci qui il widget di GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IL_TUO_USERNAME&show_icons=true&theme=radical" alt="Statistiche" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ghezz9&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
-
----
-
-### 📫 Contatti
-
-*   LinkedIn: [Il tuo link LinkedIn]
-*   Portfolio: [Il tuo link al sito]
-*   Email: [La tua email]
-
----
-
-*“Il codice è poesia, ma deve essere anche leggibile.”*
