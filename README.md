@@ -13,6 +13,6 @@
 ### 🛠 Skills
 
 *   **Languages:** JavaScript, TypeScript, Java, C++, Python
-*   **Frontend:** Vue.js, React
+*   **Frontend:** Vue.js, React, React-native
 *   **Backend:** Next.js, Node.js, Express
 *   **Databases:** PostgreSQL, MySQL, Firebase
